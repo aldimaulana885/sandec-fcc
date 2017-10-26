@@ -124,7 +124,7 @@
       ],
       "title": "Inform with the Paragraph Element",
       "description": [
-        "<code>p</code> elements are the preferred element for normal-sized paragraph text on websites. P is short for \"paragraph\".",
+        "<code>p</code> elemen adalah elemen pilihan untuk teks paragraf di situs web.dan p adalah kepanjangan dari \"paragraph\".",
         "You can create a <code>p</code> element like this:",
         "<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>",
         "Create a <code>p</code> element below your <code>h2</code> element, and give it the text \"Hello Paragraph\"."
